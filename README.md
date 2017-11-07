@@ -17,10 +17,10 @@ The project contains the following files:
 
 ## **How to Run Project**
 
-Download the zip file or clone the project to your computer.
 Launch the Python IDLE.
 Click file and open the entertainment_center.py file.
-Execute the code pushing F5 or clicking on Run and Run Module. Your default browser should launch the movie trailer website.
+Execute the code pushing F5 or clicking on Run and Run Module.
+Your default browser should launch the movie trailer website.
 
 ## **Extra Credit Description**
 
