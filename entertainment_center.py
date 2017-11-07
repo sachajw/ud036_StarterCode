@@ -6,14 +6,14 @@ pulp_fiction = media.Movie(
                 "Pulp Fiction", "The lives of two mob hit men, a boxer,"
                 "a gangster's wife, and a pair of diner bandits intertwine in"
                 "four tales of violence and redemption",
-                "https://upload.wikimedia.org/wikipedia/en/3/3b/Pulp_Fiction_%281994%29_poster.jpg",
+                "https://goo.gl/VTvhgq",
                 "https://www.youtube.com/watch?v=s7EdQ4FqbhY")
 
 baby_driver = media.Movie(
                 "Baby Driver", "After being coerced into working for a crime"
                 "boss, a young getaway driver finds himself taking part in a"
                 "heist doomed to fail.",
-                "https://upload.wikimedia.org/wikipedia/en/8/8e/Baby_Driver_poster.jpg",
+                "https://goo.gl/LF5F5x",
                 "https://www.youtube.com/watch?v=z2z857RSfhk")
 
 big_lebowski = media.Movie(
@@ -23,7 +23,7 @@ big_lebowski = media.Movie(
                 "whose wife owes a lot of dangerous people a whole bunch of"
                 "money resulting in the Dude having his rug soiled sending him"
                 "spiraling into the Los Angeles underworld",
-                "https://upload.wikimedia.org/wikipedia/en/3/35/Biglebowskiposter.jpg",
+                "https://goo.gl/QjE7f1",
                 "https://www.youtube.com/watch?v=cd-go0oBF4Y")
 
 grand_budapest_hotel = media.Movie(
@@ -32,27 +32,29 @@ grand_budapest_hotel = media.Movie(
                 "Republic of Zubrowka between the first and second World Wars,"
                 "and Zero Moustafa, the lobby boy who becomes his most trusted"
                 "friend.",
-                "https://upload.wikimedia.org/wikipedia/en/a/a6/The_Grand_Budapest_Hotel_Poster.jpg",
+                "https://goo.gl/iwjXLx",
                 "https://www.youtube.com/watch?v=1Fg5iWmQjwk")
 
 the_royal_tenenbaums = media.Movie(
-                "The Royal Tenenbaums", "A clan's estranged patriarch loses his"
+                "The Royal Tenenbaums",
+                "A clan's estranged patriarch loses his"
                 "home and learns that his ex-wife plans to remarry.",
-                "https://upload.wikimedia.org/wikipedia/en/3/3b/The_Tenenbaums.jpg",
+                "https://goo.gl/bLy64q",
                 "https://www.youtube.com/watch?v=8Eg6yIwP2vs")
 
 napoleon_dynamite = media.Movie(
-                "Napoleon Dynamite", "A listless and alienated teenager decides"
-                "to help his new friend win the class presidency in their small"
-                "western high school, while he must deal with his bizarre family"
-                "life back home.",
-                "https://upload.wikimedia.org/wikipedia/en/8/87/Napoleon_dynamite_post.jpg",
+                "Napoleon Dynamite",
+                "A listless and alienated teenager decides"
+                "to help his new friend win the class presidency"
+                "in their small western high school,"
+                "while he must deal with his bizarre family life back home.",
+                "https://goo.gl/3pYvwX",
                 "https://www.youtube.com/watch?v=ZHDi_AnqwN4")
 
 dogtown_and_z_boys = media.Movie(
                 "Dogtown and Z-Boys", "Documentary about the pioneering 1970s"
                 "Zephyr skating team",
-                "https://upload.wikimedia.org/wikipedia/en/d/db/Dogtown_and_Z-Boys_FilmPoster.jpeg",
+                "https://goo.gl/FJPVZZ",
                 "https://www.youtube.com/watch?v=xP9EMH6R50w")
 
 baraka = media.Movie(
@@ -66,7 +68,7 @@ samsara = media.Movie(
         "five continents, and shot on seventy-millimetre film, Samsara"
         "transports us to the varied worlds of sacred grounds, disaster zones,"
         "industrial complexes, and natural wonders.",
-        "https://upload.wikimedia.org/wikipedia/en/7/78/Samsara_Film_Poster.jpg",
+        "https://goo.gl/ZAvQdJ",
         "https://www.youtube.com/watch?v=HCkEILshUyU")
 # an array / list
 movies = [
