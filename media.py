@@ -8,8 +8,6 @@ class Movie():
     VALID_RATINGS = ["G", "PG", "PG-13", "R"]
 
 
-# init function
-class Movie():
     def __init__(self, movie_title, movie_storyline, poster_image,
                  trailer_youtube):
         self.title = movie_title
@@ -19,5 +17,5 @@ class Movie():
 
 
 def show_trailer(self):
-    """Plays the movie trailer in the web browser."""
+    """Opens a Youtube URL in a new browser window."""
     webbrowser.open(self.trailer_youtube_url)
